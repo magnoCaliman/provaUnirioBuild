@@ -1,1 +1,1 @@
-# FFT - Transformada rápida de Fourier
+# DFT - Transformada discreta de Fourier

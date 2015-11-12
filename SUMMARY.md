@@ -1,10 +1,10 @@
 # Índice
 
-* [Videos](cap1_videos.md)
+* [Projetos](cap1_videos.md)
     * [Sintetizador](videos_synth.md)
-    * [Video 2](videos_2.md)
-    * [Video 3](videos_3.md)
-    * [Video 4](videos_4.md)
+    * [Projeto 2](videos_2.md)
+    * [Projeto 3](videos_3.md)
+    * [Projeto 4](videos_4.md)
 <p>
 * [Áudio](cap2_audio.md)
     * [Interferência construtiva & destrutiva](audio_int.md)

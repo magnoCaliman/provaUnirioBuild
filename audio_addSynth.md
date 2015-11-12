@@ -1,1 +1,1 @@
-# Interferêancia construtiva & destrutiva
+# Síntese aditiva

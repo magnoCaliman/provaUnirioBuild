@@ -5,7 +5,7 @@ Lorem ipsum dolor sit amet, mea ad ponderum mnesarchum, id has nonumes fuisset c
 ![](palma.gif)
 
 <p align="center">
-  <img src="dft.png"/>
+  <img src="palma.gif"/>
 </p>
 
 Vix et consequat similique, ut partem sapientem conclusionemque pro. Sea solet periculis an, in cum legendos repudiandae theophrastus, usu ei iuvaret tibique periculis. Ei mel lorem mollis, at eos movet libris recusabo. Fuisset propriae mentitum ne nam, solum phaedrum accommodare eos in. Iisque incorrupte at vim, quo an detracto scripserit. Nec ut meis regione, pro in oratio democritum, pri quas commune ea.

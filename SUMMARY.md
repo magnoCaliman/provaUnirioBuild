@@ -15,3 +15,6 @@
     * [Audio 6](audio_6.md)
 
 * [Programação](cap3_prog.md)
+    * [Variáveis](prog_variaveis.md)
+    * [Funções / rampas](prog_funcoes.md)
+    * 

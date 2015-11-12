@@ -10,14 +10,14 @@
     * [Série harmônica](audio_serHarm.md)
     * [Síntese aditiva](audio_addSynth.md)
     * [FFT](audio_dft.md)
-    * [Audio 4](audio_4.md)
-    * [Audio 5](audio_5.md)
-    * [Audio 6](audio_6.md)
+    <!--* [Audio 4](audio_4.md)-->
+    <!--* [Audio 5](audio_5.md)-->
+    <!--* [Audio 6](audio_6.md)-->
 <p>
 * [Programação](cap3_prog.md)
     * [Variáveis](prog_variaveis.md)
     * [Funções / rampas](prog_funcoes.md)
     * [Orientação a objetos](prog_oop.md)
-    * [Programação 4](prog_4.md)
-    * [Programação 5](prog_5.md)
-    * [Programação 6](prog_6.md)
+    <!--* [Programação 4](prog_4.md)-->
+    <!--* [Programação 5](prog_5.md)-->
+    <!--* [Programação 6](prog_6.md)-->

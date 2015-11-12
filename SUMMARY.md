@@ -18,3 +18,6 @@
     * [Variáveis](prog_variaveis.md)
     * [Funções / rampas](prog_funcoes.md)
     * [Orientação a objetos](prog_oop.md)
+    * [Programação 4](prog_4.md)
+    * [Programação 5](prog_5.md)
+    * [Programação 6](prog_6.md)

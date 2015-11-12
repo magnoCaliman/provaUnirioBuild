@@ -1,6 +1,8 @@
 #Projeto 1 - Sintetizador
 
-![o que é essa legenda? mouseover?](youtube-vid.jpg)
+<p align="center">
+  <img src="youtube-vid.jpg"/>
+</p>
 
 ### Construção de um sintetizador através do algoritmo de síntese aditiva.
 

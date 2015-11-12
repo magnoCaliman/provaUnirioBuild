@@ -7,7 +7,7 @@
     * [Projeto 4](projetos_4.md)
 <p>
 * [Áudio](cap2_audio.md)
-    * [Interferência construtiva & destrutiva](audio_int.md)
+    * [Série harmônica](audio_serHarm.md)
     * [Síntese aditiva](audio_addSynth.md)
     * [FFT](audio_dft.md)
     * [Audio 4](audio_4.md)

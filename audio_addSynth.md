@@ -1,4 +1,4 @@
 # Síntese aditiva
 
-![o que é essa legenda?](youtube-vid.jpg)
+![o que é essa legenda? mouseover?](youtube-vid.jpg)
 

@@ -1,0 +1,1 @@
+# Interferência construtiva & destrutiva

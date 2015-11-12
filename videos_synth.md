@@ -10,6 +10,10 @@ Construção de um sintetizador através do algoritmo de síntese aditiva.
 
 
 
-Na área de teoria do áudio, esse projeto lida com:
+Na área de teoria do áudio, esse projeto lida com os seguintes tópicos:
 
-* Síntese aditiva
+* [Interferência construtiva & destrutiva](audio_int.md) (!)
+* [Síntese aditiva](audio_addSynth.md) (!!)
+* [FFT](audio_dft.md) (!!!)
+
+Na área de teoria do áudio, esse projeto lida com os seguintes tópicos:

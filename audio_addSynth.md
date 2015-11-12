@@ -3,6 +3,7 @@
 
 
 ---
+
 Os conceitos apresentados aqui são utilizados na implementação dos seguintes projetos:
 
 * [Projeto 1 - Sintetizador](projetos_synth.md)

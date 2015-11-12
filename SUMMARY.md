@@ -9,7 +9,7 @@
 * [Áudio](cap2_audio.md)
     * [Interferência construtiva & destrutiva](audio_int.md)
     * [Síntese aditiva](audio_addSynth.md)
-    * [FFT](audio_fft.md)
+    * [FFT](audio_dft.md)
     * [Audio 4](audio_4.md)
     * [Audio 5](audio_5.md)
     * [Audio 6](audio_6.md)

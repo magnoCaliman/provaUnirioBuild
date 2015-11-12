@@ -2,9 +2,9 @@
 
 * [Projetos](cap1_projetos.md)
     * [Sintetizador](projetos_synth.md)
-    * [Projeto 2](projetos_2.md)
-    * [Projeto 3](projetos_3.md)
-    * [Projeto 4](projetos_4.md)
+    <!--* [Projeto 2](projetos_2.md)-->
+    <!--* [Projeto 3](projetos_3.md)-->
+    <!--* [Projeto 4](projetos_4.md)-->
 <p>
 * [Áudio](cap2_audio.md)
     * [Série harmônica](audio_serHarm.md)

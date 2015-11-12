@@ -9,7 +9,7 @@ envelope = Line.kr (start:1, end:0, dur:0.6);
 ```
 
 <p align="center">
-  <img src="M_addSynthLine_2.png"/>
+  <img src="M_addSynthLine_line.png"/>
 </p>
 
 

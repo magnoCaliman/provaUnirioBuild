@@ -1,2 +1,2 @@
-# Síntese aditiva
+# Série Harmônica
 

@@ -1,3 +1,4 @@
-# Table of content
+# Índice
 
-* [First Chapter](chapter1.md)
+* [Videos](chapter1.md)
+    * [Sintetizador]()

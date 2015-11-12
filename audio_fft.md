@@ -1,1 +1,1 @@
-# FFT - Fast Fourier Transform
+# FFT - Transformada rápida de Fourier

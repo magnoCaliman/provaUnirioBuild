@@ -15,6 +15,7 @@ Na área de teoria do áudio, esse projeto lida com os seguintes tópicos:
 * [Interferência construtiva & destrutiva](audio_int.md) (!)
 * [Síntese aditiva](audio_addSynth.md) (!!)
 * [FFT](audio_dft.md) (!!!)
+<p>
 
 Na área de teoria do computação, esse projeto lida com os seguintes tópicos:
 

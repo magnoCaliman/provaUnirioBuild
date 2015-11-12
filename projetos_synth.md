@@ -4,7 +4,7 @@
   <img src="youtube-vid.jpg"/>
 </p>
 
-### Construção de um sintetizador através do algoritmo de síntese aditiva.
+### Construção de um sintetizador via algoritmo de síntese aditiva.
 
 ---
 Na área de teoria do áudio, esse projeto lida com os seguintes tópicos:

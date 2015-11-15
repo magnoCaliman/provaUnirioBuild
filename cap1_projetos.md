@@ -155,3 +155,55 @@ $$I = \int \rho R^{2} dV$$
 
 And note that you can backslash-escape any punctuation characters
 which you wish to be displayed literally, ex.: \`foo\`, \*bar\*, etc.
+
+#Projeto 1 - Sintetizador
+
+<p align="center">
+  <img src="youtube-vid.jpg"/>
+</p>
+
+### Construção de um sintetizador via algoritmo de síntese aditiva.
+
+---
+Na área de teoria do áudio, esse projeto lida com os seguintes tópicos:
+
+* [Série harmônica](audio_serHarm.md) (!)
+* [Síntese aditiva](audio_addSynth.md) (!!)
+* [FFT](audio_dft.md) (!!!)
+<p>
+
+Na área de teoria do computação, esse projeto lida com os seguintes tópicos:
+
+* [Variáveis](prog_variaveis.md) (!)
+* [Funções / rampas](prog_funcoes.md) (!!)
+* [Orientação a objetos](prog_oop.md) (!!!)
+---
+
+# How to Set up Sublime Text for a Vastly Better Markdown Writing Experience
+
+Over the last coupte of months, I've been writing a lot or [Markdownl(http//
+daringfireball.net/projects/markdown/), primarily for these btog posts. I've
+tried various text editors, but haven't been entirely happy with the writing
+experience untiL tast week when I discovered two truty hetprut packages for [
+Subtirme Textl(http;//sublimetext,com). Here's the setup which I used to write
+this very post and which I'tL be using to write Markdown rrom now on.
+
+### Writing Markdown in Sublime Text
+
+I've been a Long-time fan of the [Sublime Text](http:/Jsublimetext.com)
+editor. It's lightweight, fast, and highly customizabte. Plus, it simply tooks
+gorgeous on a MacBook with a retina dispLay.
+
+If I need to sit down and rocus on my writing, I like to enter Sublime's
+disrracrion ree modew, which then switches to futlscreen and hides everything
+but the current fite's content. That makes it a lot easier to wwstay focusedww
+on the task or writing:
+
+You can either click on wView | fnter Distraction Free Moae in the menu bar
+or use the (slightly uncomfortable) `CTRL+CMD+SHIFT+F` keyboard shortcut.
+
+Additionally, I usually activate the wDo Nor Disrurbw mode to prevent Mac os x
+rrom showing Growl notifications in the upper right corner of the screen.
+Again, this helps me focus on the writing
+
+This text was recognized by the built-in Ocrad engine. A better transcription may be attained by right clicking on the selection and changing the OCR engine to "Tesseract" (under the "Language" menu). This message can be removed in the future by unchecking "OCR Disclaimer" (under the Options menu). More info: http://projectnaptha.com/ocrad

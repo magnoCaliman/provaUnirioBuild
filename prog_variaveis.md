@@ -10,7 +10,7 @@ Os conceitos apresentados aqui são utilizados na implementação dos seguintes 
 
 Lorem ipsum dolor sit amet, mea ad ponderum mnesarchum, id has nonumes fuisset cotidieque, vocibus deserunt his an. Pri impetus abhorreant an, case ceteros denique ad his. In qui dicunt oportere repudiare, commune sadipscing consectetuer te mei. Vix inani menandri splendide ad, forensibus posidonium his ex.
 
-```js
+```ruby
 (
 ~meuSynth = {
 	var oscilador, envelope;

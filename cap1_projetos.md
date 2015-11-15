@@ -61,7 +61,7 @@ for i in range(10):
     print i
 ~~~
 
-
+<code>{ %  highlight javascript % }</code>
 
 ### An h3 header ###
 

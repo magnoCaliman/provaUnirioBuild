@@ -1,6 +1,6 @@
 # Índice
 
-* [Projetos](cap1_projetos.md)
+* [Projetos]()
     * [Sintetizador](projetos_synth.md)
 <p>
 * [Áudio](cap2_audio.md)

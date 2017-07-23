@@ -7,7 +7,7 @@
 ### Construção de um sintetizador via algoritmo de síntese aditiva.
 
 ---
-Na área de teoria do áudio, esse projeto lida com os seguintes tópicos:
+Naa área de teoria do áudio, esse projeto lida com os seguintes tópicos:
 
 * [Série harmônica](audio_serHarm.md) (!)
 * [Síntese aditiva](audio_addSynth.md) (!!)
